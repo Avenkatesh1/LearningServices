@@ -1,0 +1,30 @@
+/* #table{
+    border-radius: 10px;
+    border-bottom: 10px;
+} */
+/* #tr,th{
+    border-radius: 10px;
+} */
+.text{
+    text-align: center;
+    color: aqua;
+    background-color: black; 
+
+}
+.text1{
+    /* text-align: center; */
+    border:0px;
+    /* empty-cells: hide; */
+    /* width: 40px; */
+    height: 100px;
+    border: center;
+    border-style: none;
+    font-size: large;
+}
+.text2{
+    background-color: blue;
+}
+.custom{
+    padding-left: 30px;
+    padding-top: 50px;
+}
